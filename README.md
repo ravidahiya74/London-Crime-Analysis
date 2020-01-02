@@ -1,5 +1,7 @@
 # Module 3 Project: London crime analysis
 
+<img src="images/police.jpg">
+
 ### Team members:
 
 **Khairul Omar & Ravi Dahiya**<br>
@@ -41,7 +43,7 @@ Some of our investigative questions are based on other UK-wide studies and news 
 ### Key findings and conclusions:
 
 1. **There is no conclusive seasonality effect between crime level and month**  
-    - Our study defines crime level as the total number of crimes weighted by their severity index. Using several definitions of seasons in categorizing the months (i.e. cold/mild/warm, the four seasons, and holiday months vs. regular months) we could not find conclusive evidence that the crime rate is affected by any of these factors using one-way ANOVA test.
+    - Our study defines crime level as the total number of crimes weighted by their severity index. By categorizing month into the four seasons, we could not find conclusive evidence that the crime rate is affected by any of these factors using one-way ANOVA test.
 <br><br>
 2. **Suspect for serious crimes is less likely to be identified than lesser crimes**   
     - Serious crimes are defined based on the severity index published ONS, which includes violent crimes, robbery, burgularly and arson. Using Chi-square test with equally likely outcome, we found that proportion of cases where a suspect is not found for serious crimes is statistically higher than lesser crimes.
