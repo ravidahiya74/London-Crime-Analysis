@@ -7,6 +7,8 @@
 **Khairul Omar & Ravi Dahiya**<br>
 DS111819
 
+[Link to the presentation](https://docs.google.com/presentation/d/1QqSZVadWWpM4EIte9Vcis7PkQv8eg-UbmgQjNQ4uKyM/edit?usp=sharing)
+
 ### Executive summary:
 
 We looked at a 3-year UK Police database on street crime and stop & search conducted by the police within a 1-mile radius around Moorgate, London between Dec 2016 and Nov 2019. We are taking the position of an independent data analyst to conduct a study on behalf of a neighbourhood newspaper on several aspects of crime rate in the area.
@@ -45,8 +47,8 @@ Some of our investigative questions are based on other UK-wide studies and news 
 1. **There is no conclusive seasonality effect between crime level and month**  
     - Our study defines crime level as the total number of crimes weighted by their severity index. By categorizing month into the four seasons, we could not find conclusive evidence that the crime rate is affected by any of these factors using one-way ANOVA test.
 <br><br>
-2. **Suspect for serious crimes is less likely to be identified than lesser crimes**   
+2. **Suspect for serious crimes is less likely to be identified than lesser serious crimes**   
     - Serious crimes are defined based on the severity index published ONS, which includes violent crimes, robbery, burgularly and arson. Using Chi-square test with equally likely outcome, we found that proportion of cases where a suspect is not found for serious crimes is statistically higher than lesser crimes.
 <br><br>
 3. **Ethnic minorities are more likely to be stopped and searched**  
-    - Our data and tests support the claims made in the media that ethnic minorities are more likely to be stopped and searched on the street. For this hypothesis, we used Chi-square test where the expected outcome is based on UK census data for the demographic breakdown. We repeated the test using self-declared ethnicity and derived a similar conclusion.
+    - Our data and tests support the claims made in the media that ethnic minorities are more likely to be stopped and searched on the street. For this hypothesis, we used Chi-square test where the expected outcome is based on UK census data for the demographic breakdown.
